@@ -5,3 +5,6 @@ src/build
 
 # Ignore the large .keras file
 src/resnet50-yolov8-template/template_recognition/scripts/resnet50.keras/resnet50.keras
+
+# Ignore PyTorch model files
+*.pt
